@@ -1,0 +1,22 @@
+https://wenku.baidu.com/view/09e9c08f4128915f804d2b160b4e767f5bcf8070.html   搭建以及使用
+
+
+1.在本地目录下关联远程repository ：
+
+git remote add origin git@github.com:git_username/repository_name.git
+
+
+
+
+2.取消本地目录下关联的远程库：
+
+git remote remove origin
+
+
+Your identification has been saved in /c/Users/qxjc_xjm/.ssh/id_rsa.
+Your public key has been saved in /c/Users/qxjc_xjm/.ssh/id_rsa.pub.
+
+
+
+http://blog.csdn.net/zamamiro/article/details/70172900
+

@@ -1,0 +1,63 @@
+毕业证书：011009201802 140521199107292826
+this.GoBack("图片太大了！请重新上传照片！");
+import com.sincinfo.zxks.common.action.WebActionSupport;
+
+2017040101000003
+
+学历文凭：
+1999  66610400400201088 马波
+2007  66610400400201066 刘辉
+
+
+成绩查询
+
+2012年之前
+
+
+s
+
+
+
+x
+    准考证号            证书             身份   
+
+011504200075                                       612723198501250820
+
+
+  
+   010103112484                65610101031124847     372922198012293728
+
+
+新建
+010103100087                                               62610103750503002
+
+
+
+
+
+学生端
+011507100332
+652801198811216120
+
+
+2017040101000003
+
+/examrelate/grade/editGrade_preGradeQry.do?nid=12 遗留成绩
+
+/graduate/wp_preGraMgr.do?nid=200   文凭
+
+
+/examrelate/grade/gradeSearch_preGradeQry.do?nid=49  成绩
+
+
+class类编译，反编译
+
+项目之间的调用，类之间有无影响，不同项目，同一类，调用的先后顺序
+
+weblogic的启动脚本，eclipse中各个版本号的调用脚本，运行过程
+
+
+
+222.91.163.154:1818/ZK_CORE/manager/login.jsp
+
+com.sincinfo.zxks.common

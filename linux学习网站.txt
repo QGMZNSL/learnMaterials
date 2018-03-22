@@ -1,0 +1,3 @@
+https://jingyan.baidu.com/article/9faa7231b66dba473c28cb90.html   一台电脑上安装多个系统
+http://www.92csz.com/study/linux/                                 linux入门
+http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html      SSH工具知识
