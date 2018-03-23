@@ -5,3 +5,6 @@ SXQXJC-2017-true?1:2
 
 公司服务器
 192.168.1.7:8090
+
+
+ed2k://|file|mu_microsoft_hpc_pack_2008_r2_with_service_pack_2_x86_x64_dvd_709909.iso|1003403264|63FB57138627683A65C9ACEF71F42BEA|/
