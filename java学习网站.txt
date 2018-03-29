@@ -1,0 +1,28 @@
+1. The Source for Java Technology Collaboration(JAVA开发的官方网站)
+http://www.java.net/ - 外文 2. jGuru: FAQ Home Page 推荐
+http://www.jguru.com/faq/ - 外文 3. Developer.com: An EarthWeb site
+http://www.developer.com/ - 外文 4. the java.blogs community
+互联网上最活跃的一个Java Blog网站
+http://www.javablogs.com/ - 外文 5. The #1 Java Review Service
+提供Java评论服务. 包括各种framework和应用程序
+http://www.jars.com/ - 外文 6. programming resources in various categories
+http://www.programmingsite.co.uk/ - 外文 7. 非常不错的java开发社区,大量的相关资源
+http://www.javaresearch.org/ - 中文 8. java教程网 -- java教程下载网站
+http://www.javajc.com/ - 中文 9. 中文JAVA技术网 -- 为Java爱好者服务
+http://www.cn-java.com/ - 中文 10.java大本营—帮助JAVA爱好者 总有最新的JAVA精华文章 推荐！
+http://www.javadby.com/ - 中文 11. 中国JAVA俱乐部
+http://www.cnjavaclub.com/ - 中文 12. Computer Technical Tutorials and Information: Free Technical Tutorials
+收集了大量的开发资源,特别是一些指南.点击左边的导航进入,值得好好研究.
+http://www.techtutorials.info/ - 外文 13. Tutorials From FunctionX .酷
+http://www.functionx.com/ - 外文 14. ACCU 推荐
+The ACCU is a non-profit organisation devoted to professionalism in programming at all levels. Although primarily focussed on C and C++, we also have interests in Java, C# and Python. 有非常好的资料,就看你能不能找到.
+http://www.accu.org/ - 外文 15. JAVA中文站
+一个老牌的站点提供大量的JAVA资料，是目前国内较好的java专业技术网站之一，在J友中已经具有相当的名气。
+http://www.java-cn.com/index.html - 中文 16. SUN 中国技术社区 中文官方网站
+http://gceclub.sun.com.cn/ - 中文 17. Planet Source Code
+一个优秀的代码收集站点，分类清晰，强烈推荐.
+http://www.planetsourcecode.com/ - 外文 18. Java频道---中国IT认证实验室
+大量的开发文档，分类清晰。
+http://java.chinaitlab.com/ - 中文 19. IBM developerworks 中国: Java
+http://www-128.ibm.com/developerworks/cn/java/index.html - 中文 20. O'Reilly CodeZoo
+http://www.codezoo.com/ - 外文 
